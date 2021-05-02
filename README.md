@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Peter-Mutua
-- 👀 I’m interested in Data Analysis, Software Development and Web Database Applications Development.
+- 👀 I’m interested in Data Scientist, Software Development and Web Database Applications Development.
 - 🌱 I’m currently learning Natural Language Processing using Python.
 - 💞️ I’m looking to collaborate on any of the projects as mentioned on the description.
 - 📫 Reach me via my email: petermwendwa94@gmail.com
