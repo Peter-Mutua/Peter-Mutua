@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any of the projects as mentioned on the description.
 - 📫 Reach me via my email: petermwendwa94@gmail.com
 
-- [![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,js,flutter,ts,react,laravel,postgres,mysql,mongodb,nginx,git,gitlab,githubactions,kubernetes,docker,aws,azure,jenkins,grafana,prometheus,materialui,css,wasm)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,py,js,flutter,ts,react,laravel,postgres,mysql,mongodb,nginx,git,gitlab,githubactions,kubernetes,docker,aws,azure,jenkins,grafana,prometheus,materialui,css)](https://skillicons.dev)
 
 - [![OS](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
 
