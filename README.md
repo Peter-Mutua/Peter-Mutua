@@ -8,7 +8,7 @@
 
 - [![My Skills](https://skillicons.dev/icons?i=java,nodejs,spring,py,js,flutter,ts,react,laravel,postgres,mysql,mongodb,nginx,git,gitlab,githubactions,kubernetes,docker,aws,azure,jenkins,grafana,prometheus,materialui,css)](https://skillicons.dev)
 
-- [![OS](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
+- [![OS](https://skillicons.dev/icons?i=ubuntu,mac)](https://skillicons.dev)
 
 <!---
 Peter-Mutua/Peter-Mutua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
