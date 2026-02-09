@@ -6,7 +6,7 @@
 
 - [![wakatime](https://wakatime.com/badge/user/018b3cd3-dc1d-43b4-a583-8c98d46648cf.svg)](https://wakatime.com/@018b3cd3-dc1d-43b4-a583-8c98d46648cf)
 
-- [![My Skills](https://skillicons.dev/icons?i=bash,java,nodejs,nestjs,spring,py,js,n,ts,react,postgres,mysql,mongodb,nginx,git,gitlab,githubactions,kafka,kubernetes,docker,aws,azure,jenkins,grafana,prometheus,materialui,css)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=bash,java,nodejs,nestjs,spring,py,js,ts,react,postgres,mysql,mongodb,nginx,git,gitlab,githubactions,kafka,kubernetes,docker,aws,azure,jenkins,grafana,prometheus,materialui,css)](https://skillicons.dev)
 
 - [![OS](https://skillicons.dev/icons?i=ubuntu,apple,debian,kali)](https://skillicons.dev)
 
